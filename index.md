@@ -11,7 +11,7 @@
     -  https://mqdcbz.github.io/First_day_study_python/模块小练习/day1练习题.md
     -  https://mqdcbz.github.io/First_day_study_python/模块小练习/练习题答案.md
     -  https://mqdcbz.github.io/First_day_study_python/模块小练习/大练习题"11点"需求.md
-    -  https://mqdcbz.github.io/First_day_study_python/模块小练习/11点.py
+    -  https://mqdcbz.github.io/First_day_study_python/模块小练习/11点.py   （这个为下载py文件）
 ```
 
 复制粘贴网址即可
