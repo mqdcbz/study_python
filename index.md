@@ -19,14 +19,14 @@
 ```
 
 第一模块学习文档：
-  <a href="https://mqdcbz.github.io/study-python-one-day/模块一笔记/笔记.md">模块一笔记</a>
+<a href="https://mqdcbz.github.io/study-python-one-day/模块一笔记/笔记.md">模块一笔记</a>
 第一模块练习题 ：
-  <a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/day1练习题.md">练习题</a>
-  <a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/练习题答案.md">练习题答案</a>
-  <a href="https://mqdcbz.github.io/study-python-one-day/模块一笔记/笔记.md">模块一笔记</a>
-  <a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/大练习题"11点"需求.md">大练习题"11点"需求</a>
-  <a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/11点.py">11点答案.py（下载）</a>
+<a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/day1练习题.md">练习题</a>
+<a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/练习题答案.md">练习题答案</a>
+<a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/大练习题"11点"需求.md">大练习题"11点"需求</a>
+<a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/11点.py">11点答案.py（下载）</a>
 
+    如果是白板就刷新一下
 复制粘贴网址即可
 
 如果遇到编码错误 
