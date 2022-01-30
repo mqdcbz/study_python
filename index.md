@@ -16,19 +16,9 @@
 
 
 第一模块：
-
-    第一模块学习文档：
-    <a href="https://mqdcbz.github.io/study-python/模块一笔记/笔记.md">模块一文档</a>
+  第一模块学习文档：<a href="https://mqdcbz.github.io/study-python/模块一笔记/笔记.md">模块一文档</a>
   
-    第一模块练习题 ：
-  
-    <a href="https://mqdcbz.github.io/study-python/模块一练习题/模块一练习题.md">练习题</a>
-  
-    <a href="https://mqdcbz.github.io/study-python/模块一练习题/模块一练习题答案.md">练习题答案</a>
-  
-    <a href="https://mqdcbz.github.io/study-python/模块一练习题/11点需求.md">大练习题11点需求</a>
-  
-    <a href="https://mqdcbz.github.io/study-python/模块一练习题/11点.py">11点答案.py（下载）</a>
+  第一模块练习题 ：<a href="https://mqdcbz.github.io/study-python/模块一练习题/模块一练习题.md">练习题</a> ; <a href="https://mqdcbz.github.io/study-python/模块一练习题/模块一练习题答案.md">练习题答案</a> ; <a href="https://mqdcbz.github.io/study-python/模块一练习题/11点需求.md">大练习题11点需求</a> ; <a href="https://mqdcbz.github.io/study-python/模块一练习题/11点.py">11点答案.py（下载）</a>
 
  如果是白板就刷新一下
 
