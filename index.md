@@ -26,7 +26,7 @@
   
   <a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/练习题答案.md">练习题答案</a>
   
-  <a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/大练习题"11点"需求.md">大练习题"11点"需求</a>
+  <a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/大练习题11点需求.md</a>
   
   <a href="https://mqdcbz.github.io/study-python-one-day/模块小练习/11点.py">11点答案.py（下载）</a>
 
