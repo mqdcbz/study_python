@@ -36,6 +36,11 @@
 
 如果遇到编码错误 
 
-- goolgle 下载插件 Charset 和 
-  - Markdown Preview Plus 是为了查看 markdown文件的
-- Firefox 下载插件 Markdown Viewer查看 markdown 文件
+- goolgle 
+  - 下载插件 Charset (处理编码) 
+  - Markdown Preview Plus  (查看 markdown文件的)
+- Firefox 
+- 下载插件 Markdown Viewer  (查看 markdown 文件)
+- Microsoft Edge
+  - 去下载插件Charset (处理编码) 
+  - Markdown Preview Plus   (查看 markdown 文件)
