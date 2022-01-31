@@ -3,3 +3,7 @@ description: 学习python
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+blog_button:
+  title: Blog
+  description: Visit blog
