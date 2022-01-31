@@ -43,6 +43,13 @@
   - Microsoft Edge
     - 去下载插件Charset (处理编码) 
     - Markdown Preview Plus   (查看 markdown 文件)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="//{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 
 ### 联系方式
@@ -53,7 +60,7 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="/study_python""{{ post.url }}">{{ post.title }}</a>
+      <a href="/study_python{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
