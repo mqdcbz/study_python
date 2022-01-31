@@ -49,3 +49,11 @@
 
  - 邮箱 cbzllc@163.com
  - 微信 yzbcbz1205
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
