@@ -26,20 +26,21 @@
 
 
 
+### 问题排除
 
- 如果是白板就刷新一下
+  如果是白板就刷新一下
 
 
-如果遇到编码错误 
+  如果遇到编码错误 
 
-- goolgle 
-  - 下载插件 Charset (处理编码) 
-  - Markdown Preview Plus  (查看 markdown文件的)
-- Firefox 
-- 下载插件 Markdown Viewer  (查看 markdown 文件)
-- Microsoft Edge
-  - 去下载插件Charset (处理编码) 
-  - Markdown Preview Plus   (查看 markdown 文件)
+  - goolgle 
+    - 下载插件 Charset (处理编码) 
+    - Markdown Preview Plus  (查看 markdown文件的)
+  - Firefox 
+  - 下载插件 Markdown Viewer  (查看 markdown 文件)
+  - Microsoft Edge
+    - 去下载插件Charset (处理编码) 
+    - Markdown Preview Plus   (查看 markdown 文件)
 
 
 联系方式
