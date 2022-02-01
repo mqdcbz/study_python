@@ -9,18 +9,6 @@
 
 目录
 
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="/study_python{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-
-
-
   - 模块一
      - 第一模块学习文档
      - 第一模块习题
