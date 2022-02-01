@@ -15,7 +15,7 @@
      - 第一模块大作业
 
 
-第一模块学习文档：<a href="https://mqdcbz.github.io/study_python/2022/01/31/笔记.html">模块一文档</a>
+第一模块学习文档：<a href="https://mqdcbz.github.io/study_python/2022/01/31/第一模块笔记.html">模块一文档</a>
   
 第一模块练习题 ：<a href="https://mqdcbz.github.io/study_python/2022/01/31/模块一练习题.html">练习题</a> ; <a href="https://mqdcbz.github.io/study_python/2022/01/31/模块一练习题答案.html">练习题答案</a> ; <a href="https://mqdcbz.github.io/study_python/2022/01/31/11点需求.html">大练习题11点需求 and 下载答案</a>
 
