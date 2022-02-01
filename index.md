@@ -24,3 +24,13 @@
 
  - 邮箱 cbzllc@163.com，uhuane@outlook.com
  - 微信 yzbcbz1205 ，zhan_long_yan
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?8bf5457333ebd363380535f09573bf73";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
