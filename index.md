@@ -9,10 +9,10 @@
 
 目录
 
-  - 模块一
-     - 第一模块学习文档
-     - 第一模块习题
-     - 第一模块大作业
+- 模块一
+   - 第一模块学习文档
+   - 第一模块习题
+   - 第一模块大作业
 
 
 第一模块学习文档：<a href="https://mqdcbz.github.io/study_python/2022/01/31/第一模块笔记.html">模块一文档</a>
@@ -24,13 +24,3 @@
 
  - 邮箱 cbzllc@163.com，uhuane@outlook.com
  - 微信 yzbcbz1205 ，zhan_long_yan
-
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?8bf5457333ebd363380535f09573bf73";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
