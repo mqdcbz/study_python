@@ -14,7 +14,7 @@
    - 第一模块习题
    - 第一模块大作业
 
-<a href="https://mqdcbz.github.io/study_python/2022/02/03/python3.11.html">python3.11将提升性能</a>
+<a href="https://mqdcbz.github.io/study_python/2022/02/03/python311.html">python3.11将提升性能</a>
 
 
 第一模块学习文档：<a href="https://mqdcbz.github.io/study_python/2022/01/31/第一模块笔记.html">模块一文档</a>
