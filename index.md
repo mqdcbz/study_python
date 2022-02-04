@@ -13,13 +13,21 @@
    - 第一模块学习文档
    - 第一模块习题
    - 第一模块大作业
+- 模块二
+   - 第二模块学习文档
 
 文章：<a href="https://mqdcbz.github.io/study_python/2022/02/03/python311.html">python3.11即将速度提升</a>
 
+模块一：
 
-第一模块学习文档：<a href="https://mqdcbz.github.io/study_python/2022/01/31/第一模块笔记.html">模块一文档</a>
 
-第一模块练习题 ：<a href="https://mqdcbz.github.io/study_python/2022/01/31/模块一练习题.html">练习题</a> ; <a href="https://mqdcbz.github.io/study_python/2022/01/31/模块一练习题答案.html">练习题答案</a> ; <a href="https://mqdcbz.github.io/study_python/2022/01/31/11点需求.html">大练习题11点需求 and 下载答案</a>
+​	第一模块学习文档：<a href="https://mqdcbz.github.io/study_python/2022/01/31/第一模块笔记.html">模块一文档</a>
+
+​	第一模块练习题 ：<a href="https://mqdcbz.github.io/study_python/2022/01/31/模块一练习题.html">练习题</a> ; <a href="https://mqdcbz.github.io/study_python/2022/01/31/模块一练习题答案.html">练习题答案</a> ; <a href="https://mqdcbz.github.io/study_python/2022/01/31/11点需求.html">大练习题11点需求 and 下载答案</a>
+
+模块二：
+
+​	第一模块学习文档：<a href="https://mqdcbz.github.io/study_python/2022/02/04/第二模块笔记.html">模块二文档</a>
 
 
 ### 联系方式
