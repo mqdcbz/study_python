@@ -31,7 +31,7 @@
 
 模块四：
 
-​	mysql语句：<a href="https://mqdcbz.github.io/study_python/2022/02/04/sql%E8%AF%AD%E5%8F%A5.html">sql语句</a>
+​	mysql语句：<a href="https://mqdcbz.github.io/study_python/2022/02/07/sql%E8%AF%AD%E5%8F%A5.html">sql语句</a>
 
 
 ### 联系方式
