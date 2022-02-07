@@ -29,6 +29,10 @@
 
 ​	第一模块学习文档：<a href="https://mqdcbz.github.io/study_python/2022/02/04/第二模块笔记.html">模块二文档</a>
 
+模块四：
+
+​	mysql语句：<a href="https://mqdcbz.github.io/study_python/2022/02/04/sql%E8%AF%AD%E5%8F%A5.html">sql语句</a>
+
 
 ### 联系方式
 
