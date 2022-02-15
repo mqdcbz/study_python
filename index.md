@@ -15,6 +15,11 @@
    - 第一模块大作业
 - 模块二
    - 第二模块学习文档
+- 模块三
+   - 暂时不更
+- 模块四
+   - mysql 最基础的东西
+   - sql 基础语句
 
 文章：<a href="https://mqdcbz.github.io/study_python/2022/02/03/python311.html">python3.11即将速度提升</a>
 
@@ -31,7 +36,7 @@
 
 模块四：
 
-​	mysql语句：<a href="https://mqdcbz.github.io/study_python/2022/02/14/mysql最基础的.html">mysql最基础的</a>； <a href="https://mqdcbz.github.io/study_python/2022/02/07/sql语句.html">sql语句</a>
+​	mysql语句：<a href="https://mqdcbz.github.io/study_python/2022/02/14/mysql最基础的.html">mysql最基础的</a> ；<a href="https://mqdcbz.github.io/study_python/2022/02/07/sql语句.html">sql语句</a>
 
 
 ### 联系方式
