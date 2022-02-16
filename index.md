@@ -38,6 +38,7 @@
 
 ​	mysql语句：<a href="https://mqdcbz.github.io/study_python/2022/02/14/mysql最基础的.html">mysql最基础的</a> ；<a href="https://mqdcbz.github.io/study_python/2022/02/07/sql语句.html">sql语句</a>
 
+​ Linux正则笔记：<a href="https://mqdcbz.github.io/study_python/2022/02/16/Linux正则笔记.html">Linux正则笔记</a> 
 
 ### 联系方式
 
