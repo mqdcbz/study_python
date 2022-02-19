@@ -6,9 +6,11 @@
 
 ## 这是一个学习博客
 
-###### 
+
 
 ### python - 全栈部分
+
+作者：菜包子
 
 
 目录
@@ -44,7 +46,13 @@
 
 
 
-### linux - 零基础入门部分
+### linux - 零基础入门部分     
+
+作者：uhuame
+
+#### 作者太烂了，不更了烂尾了
+
+
 
  Linux正则笔记：<a href="https://mqdcbz.github.io/study_python/2022/02/16/Linux正则笔记.html">Linux正则笔记</a> 
 
