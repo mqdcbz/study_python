@@ -2,9 +2,15 @@
 
 本网站建于2022年2月1日，春节，本网站会持续更新
 
+**我们会发布一些学习的东西，供大家参考**
+
 ## 这是一个学习博客
 
-### 我们会发布一些学习的东西，供大家参考
+
+
+### python - 全栈部分
+
+作者：菜包子
 
 
 目录
@@ -38,9 +44,22 @@
 
 ​	mysql语句：<a href="https://mqdcbz.github.io/study_python/2022/02/14/mysql最基础的.html">mysql最基础的</a> ；<a href="https://mqdcbz.github.io/study_python/2022/02/07/sql语句.html">sql语句</a>
 
-​ Linux正则笔记：<a href="https://mqdcbz.github.io/study_python/2022/02/16/Linux正则笔记.html">Linux正则笔记</a> 
+
+
+### linux - 零基础入门部分     
+
+作者：uhuame
+
+#### 作者太烂了，不更了烂尾了
+
+
+
+ Linux正则笔记：<a href="https://mqdcbz.github.io/study_python/2022/02/16/Linux正则笔记.html">Linux正则笔记</a> 
 
 ### 联系方式
 
  - 邮箱 cbzllc@163.com，uhuane@outlook.com
  - 微信 yzbcbz1205 ，zhan_long_yan 
+
+
+
