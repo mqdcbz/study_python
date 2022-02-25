@@ -52,7 +52,7 @@
 
 #### 作者太烂了，不更了烂尾了
 
-
+linux教程： <a href="https://mqdcbz.github.io/study_python/2022/02/25/Linux简介.html">linux教程</a> 
 
  Linux正则笔记：<a href="https://mqdcbz.github.io/study_python/2022/02/16/Linux正则笔记.html">Linux正则笔记</a> 
 
