@@ -12,7 +12,6 @@
 
 作者：菜包子
 
-
 目录
 
 - 模块一
@@ -29,20 +28,26 @@
 
 文章：<a href="https://mqdcbz.github.io/study_python/2022/02/03/python311.html">python3.11即将速度提升</a>
 
-模块一：
+​			<a href="https://mqdcbz.github.io/study_python/2022/03/04/公共知识.html">计算机二级公共知识</a>
+
+
+
+模块一（python基本数据类型）：
 
 
 ​	第一模块学习文档：<a href="https://mqdcbz.github.io/study_python/2022/01/31/第一模块笔记.html">模块一文档</a>
 
 ​	第一模块练习题 ：<a href="https://mqdcbz.github.io/study_python/2022/01/31/模块一练习题.html">练习题</a> ; <a href="https://mqdcbz.github.io/study_python/2022/01/31/模块一练习题答案.html">练习题答案</a> ; <a href="https://mqdcbz.github.io/study_python/2022/01/31/11点需求.html">大练习题11点需求 and 下载答案</a>
 
-模块二：
+模块二（python函数等）：
 
 ​	第一模块学习文档：<a href="https://mqdcbz.github.io/study_python/2022/02/04/第二模块笔记.html">模块二文档</a>
 
-模块四：
+模块四（MySQL）：
 
 ​	mysql语句：<a href="https://mqdcbz.github.io/study_python/2022/02/14/mysql最基础的.html">mysql最基础的</a> ；<a href="https://mqdcbz.github.io/study_python/2022/02/07/sql语句.html">sql语句</a>
+
+
 
 
 
