@@ -30,7 +30,7 @@
 
 文章：<a href="https://mqdcbz.github.io/study_python/2022/02/03/python311.html">python3.11即将速度提升</a>
 
-​	<a href="https://mqdcbz.github.io/study_python/2022/03/04/二级公共知识.html">		计算机二级公共知识（未完待续）</a>（图片太多了，以后再搞图床）
+​	<a href="https://mqdcbz.github.io/study_python/2022/03/04/二级公共知识.html">		计算机二级公共知识</a>（图片太多了，以后再搞图床）
 
 ----------------------------------------------------
 
