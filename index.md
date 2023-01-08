@@ -64,6 +64,8 @@
 linux教程： <a href="https://mqdcbz.github.io/study_python/2022/02/25/Linux简介.html">linux教程</a> 
 
  Linux正则笔记：<a href="https://mqdcbz.github.io/study_python/2022/02/16/Linux正则笔记.html">Linux正则笔记</a> 
+ 
+<a href="https://mqdcbz.github.io/study_python/2023/01/08/Linux下firefox视频加速小记">Linux下firefox视频加速小记</a> 
 
 ### 联系方式
 
